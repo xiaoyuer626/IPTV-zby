@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250721 02:45,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20250721 04:24,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -1809,7 +1809,6 @@ CCTV10,http://58.221.214.82:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&a
 CCTV10,https://www.freetv.top/migu/624878405.m3u8?migutoken=dc9e41d483fefd536dad7a6eb4d91f4a9d37e906ce1c582b1cc85960d34d36df8b864db7f8148188e2997210544c1455ac19fa4063b67d5521ece7addf0089d1209518e453b304d3fde926ff6a
 CCTV10,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv10hd
 CCTV10,http://live.catvod.com/catvod.php?id=cctv10
-CCTV10,http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078701.m3u8
 CCTV10,http://8.138.7.223/tv/dl/douyincdn.php?id=10
 CCTV10,http://8.138.7.223/tv/dl/careryun.php?id=13
 CCTV10,http://183.11.239.36:808/hls/28/index.m3u8
@@ -3254,7 +3253,6 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-96.m3u8
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-73.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-106.m3u8
-江苏卫视,http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171101.m3u8
 江苏卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=21
 江苏卫视,http://8.138.7.223/tv/dl/careryun.php?id=23
 江苏卫视,http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
@@ -6166,7 +6164,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-31.ctv
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-23.m3u8
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-13.ctv
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=6c2ac1df54b06f9aa8e5b5db07ba28d1&time=687d30a1
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=d5fda6c3300818b90fdacecba254e998&time=687d4cbd
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 西藏卫视,http://goo.bkpcp.top/mg/xzws
@@ -8850,6 +8848,5 @@ iHOT,#genre#
 解说_鱼丸电影,https://live.metshop.top/huya/16615910
 解说_鹿哥电影,https://live.metshop.top/huya/24396360
 解说_默爷侃电影,https://live.metshop.top/huya/17204307
-阿斗归来了,http://dns.yiandrive.com:13571/huya/13303478
 阿斗归来了,https://live.iill.top/huya/13303478
 阿斗归来了,https://www.goodiptv.club/huya/13303478
